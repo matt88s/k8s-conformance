@@ -19,30 +19,25 @@ By signing below and submitting this form to The Linux Foundation (by [DocuSign]
 
 Company / entity name:
 
-\___________________________________________________
+\__Hangzhou WOQU Technology Co., Ltd.
 
 Contact address:
 
-\___________________________________________________
-
-\___________________________________________________
-
-\___________________________________________________
-
-\___________________________________________________
+\_Room 1004, Building A, D-innovation Center, No. 1190
+\_Bin' an road, Hangzhou 310052 CHina
 
 Contact telephone:
 
-\___________________________________________________
+\_+86 (0571) 87770835
 
 Contact email:
 
-\___________________________________________________
+\_pengfei.ma@woqutech.com
 
 
 Select one:
 
- - [ ] Participant is a member of CNCF.
+ - [Y] Participant is a member of CNCF.
  - [ ] Participant is a non-profit organization.
  - [ ] Neither of the above. **Please contact CNCF to discuss fees for participation in the Conformance Program.**
 
@@ -50,7 +45,10 @@ Select one:
 
 Name, brief description and URLs for more information:
 
-\___________________________________________________________________________
+\_woqutech provides the research and development of database ecological products, 
+combined with the development trend of cloud computing, x86 platform, and localization, 
+to provide users with cloud platform solutions for the complete life cycle of relational 
+databases________________________________________________________________________
 
 \___________________________________________________________________________
 
@@ -76,9 +74,9 @@ List all Participant Kubernetes Combinations to be used with the Qualifying Offe
 
 #### Conformance Details
 
-Initial Version of Kubernetes for Conformance (e.g., v1.8): _______
+Initial Version of Kubernetes for Conformance (e.g., v1.8): ___v1.18.16____
 
-Conformance Date: __________________
+Conformance Date: ____11-______________
 
 
 #### Signed on behalf of Participant by:
